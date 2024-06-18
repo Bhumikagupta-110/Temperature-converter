@@ -13,17 +13,12 @@ Witness instant temperature conversions as you type, providing a seamless user e
 Enjoy a sleek and responsive design that works seamlessly across various devices, ensuring a consistent experience for users.
 
 ## Getting Started
-🚀 To get started, simply visit TemperatureConverter.com and start converting temperatures instantly!
-
-## How to Contribute
-🤝 We welcome contributions from the community to make this temperature converter even better. Feel free to fork the repository, open issues, and submit pull requests. Check out our contributing guidelines for more details.
+🚀 To get started, simply visit [TemperatureConverter](https://tempconvertion.netlify.app/) and start converting temperatures instantly!
 
 ## Technologies Used
 HTML5
 CSS3
 JavaScript
-[Library/Framework used, if any]
-[Other dependencies or tools used]
 
 # 🌡️ Happy converting!
 
